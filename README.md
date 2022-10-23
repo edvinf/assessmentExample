@@ -6,8 +6,8 @@ The code is organized as an ICES-TAF project. Run the model by running the scrip
 2. model.R
 3. report.R
 
-or run icesTAF::sourceAll(), if icesTAF is installed.
+or run TAF::sourceAll().
 
 ## Dependencies
 The model is implemented in SAM: https://github.com/fishfollower/SAM
-icesTAF is available on CRAN.
+icesTAF is available on CRAN and can be installed with install.packages(icesTAF). Installing icesTAF also installs the package TAF.
